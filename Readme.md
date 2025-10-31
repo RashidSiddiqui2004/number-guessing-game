@@ -1,6 +1,6 @@
 # 🎯 CLI Number Guessing Game (Go)
 
-Project Page URL - https://roadmap.sh/projects/number-guessing-game
+[Project Page URL](https://roadmap.sh/projects/number-guessing-game)
 
 A simple **Command Line Interface (CLI)** number guessing game built in **Go**.  
 The computer randomly selects a number between **1 and 100**, and the player has to guess it within a limited number of chances based on the chosen difficulty level.
